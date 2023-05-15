@@ -17,8 +17,4 @@
 * [Module 5: Coding](https://github.com/godofdocsync/html-css-js-john-hopkins/blob/main/Module%205/index.html)
 
 
-
-
-
-
 Certificate issued on May 14, 2023.
